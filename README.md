@@ -1,2 +1,2 @@
-# bigbook
-projects from big book of small projects
+# Rust Projects
+Projects from The Rust Programming Language textbook.
